@@ -1,0 +1,13 @@
+com\crm\qa\pages\DealsPage.class
+com\crm\qa\pages\SIgnUpPage.class
+com\crm\qa\pages\TaskPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\util\WebdriverWaitUtil.class
+com\crm\qa\util\constant.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\ExtentReportListener\ExtentReportNG.class
+com\crm\qa\util\WebEventListener.class
+com\crm\qa\pages\LogInPage.class
+com\crm\qa\pages\ContactPage.class
+com\crm\qa\util\ExcelUtil.class
